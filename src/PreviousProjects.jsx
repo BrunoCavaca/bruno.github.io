@@ -16,7 +16,7 @@ export default function Projects() {
       projectDescription:
         "The very website you are on! A portfolio built with React, Tailwind, and Framer Motion to showcase my work.",
       languagesUsed: ["React", "TailwindCSS", "Framer Motion"],
-      githubLink: "https://github.com/BrunoCavaca/bruno.github.io",
+      githubLink: "https://github.com/BrunoCavaca/personal_website",
       liveDemo: "",
       imgPreview: [],
     },
